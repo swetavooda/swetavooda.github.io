@@ -9,10 +9,7 @@
 label: "Share"
 
 platforms:
-  -
-    type: Twitter
-    icon: "fab fa-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
+    
   -
     type: Facebook
     icon: "fab fa-facebook-square"
@@ -21,7 +18,10 @@ platforms:
     type: Telegram
     icon: "fab fa-telegram"
     link: "https://telegram.me/share?text=TITLE&url=URL"
-
+  -
+    type: LinkedIn
+    icon: "fab fa-linkedin"
+    link: "https://www.linkedin.com/in/sweta-vooda-3b489960/"
   # Uncomment below if you need to.
   # -
   #   type: Weibo
