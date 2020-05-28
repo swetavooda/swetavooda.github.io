@@ -10,7 +10,7 @@
 
 title: Sweta Vooda                          # the main title
 
-tagline: Code-Music-Art  # it will display as the sub-title
+tagline:   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -22,7 +22,7 @@ url: 'https://swetavooda.github.io'
 
 author: Sweta Vooda                  # change to your full name
 
-avatar: /assets/img/avatar/profile2.jpg # support internet resources
+avatar: /assets/img/avatar/profile4.png # support internet resources
 
 github:
   username: swetavooda             # change to your github username
