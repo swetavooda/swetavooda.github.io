@@ -17,7 +17,7 @@ WORK_DIR=$(dirname $(dirname $(realpath "$0")))
 CONTAINER=.container
 SYNC_TOOL=_scripts/sh/sync_monitor.sh
 
-cmd="bundle exec jekyll s>>C:\Users\sweta\Documents\output.txt"
+cmd="bundle exec jekyll s"
 realtime=false
 
 
