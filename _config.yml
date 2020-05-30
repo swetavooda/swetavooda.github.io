@@ -54,7 +54,7 @@ timezone:  Asia/Kolkata
 
 google_analytics:
   # Fill with your Google Analytics ID
-  id: ''
+  id: 'G-ZHT1VX57QZ'
   # The Google Analytics pageviews switch.
 
   pv:
