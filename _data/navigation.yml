@@ -1,0 +1,20 @@
+# main links links
+main:
+ 
+  - title: "Education"
+    url: /education/    
+        
+  - title: "Projects"
+    url: /projects/
+    
+  - title: "Work Experience"
+    url: /workex/
+    
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Blogs"
+    url: /blogs/
+
+  - title: "Other Activities"
+    url: /other/
