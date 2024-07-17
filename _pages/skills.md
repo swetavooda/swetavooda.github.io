@@ -29,7 +29,7 @@ author_profile: true
 ![FS logo](/images/FSicon.png){: .align-left width="60px"}
 ## Fullstack Development
 1. **Front-end**: HTML/CSS, JavaScript, ReactJS, Angular, JSP, JSTL, Ajax
-2. **Back-end**: SpringMVC, Rest API Development, NodeJS, PHP, Java
+2. **Back-end**: SpringMVC, Rest API Development, NodeJS, PHP, Java, GraphQL
 
 ![Cloud logo](/images/cloudicon.png){: .align-left width="60px"}
 ## Cloud Services and DevOps:

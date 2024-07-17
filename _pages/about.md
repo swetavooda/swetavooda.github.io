@@ -16,8 +16,6 @@ redirect_from:
 
 🚀 Engaged in research with [Prof. Joy Arulraj](https://faculty.cc.gatech.edu/~jarulraj/) at the [Georgia Tech Database Group](https://db.cc.gatech.edu/), developing PostgreSQL extensions and RAGs(Retrieval-augmented generation) for ML and AI applications.
 
-🌟 On the **lookout for a Summer 2024 internship** where I can apply my full-stack development expertise and backend systems knowledge.
-
 🤝 Committed to boosting system efficiency and encouraging teamwork through innovative problem-solving.
 
 ## ⬇️  [ Download Resume](my_resume.pdf){:target="_blank"}
