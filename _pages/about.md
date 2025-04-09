@@ -15,7 +15,7 @@ redirect_from:
 💡 **Research Interests:** Database Systems, Distributed Systems, Operating Systems, and advancing High-performance computing.
 
 🗞️ **Recent News:**  
-Excited to be speaking at **Postgres Extensions Day (pgext.day)** in Montréal, Canada!  
+Excited to be speaking at **Postgres Extensions Day ([pgext.day](https://pgext.day/))** in Montréal, Canada!  
 📅 **Talk:** *Postgres as a Control Plane: Challenges in Offloading Compute via Extensions*  
 🕛 **When:** May 12, 2025 at 12:00 pm
 
